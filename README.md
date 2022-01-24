@@ -1,0 +1,1 @@
+# burpplugin_log4jScanner
